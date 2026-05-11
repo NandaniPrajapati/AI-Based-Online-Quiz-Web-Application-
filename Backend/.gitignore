@@ -35,7 +35,7 @@ build/
 
 # Environment / Secrets
 .env
-application-local.properties
+application.properties
 application-secret.properties
 
 # OS files
