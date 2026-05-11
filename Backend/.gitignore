@@ -36,7 +36,7 @@ build/
 # Environment / Secrets
 .env
 application.properties
-application-secret.properties
+
 
 # OS files
 .DS_Store
